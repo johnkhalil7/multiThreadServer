@@ -1,9 +1,3 @@
-/*
- * multiThreadServer.c -- a multithreaded server
- * Program Made by: Hadi Daana and Johnathan Khalil
- * CIS-427 Jinhua Guo
- * Date: 11/5/2020
- */
 
 
 #include <iostream>
