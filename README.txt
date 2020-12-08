@@ -1,8 +1,7 @@
 
 README file
 
-This project is created by Hadi Daana and Johnathan Khalil. This
-project contains two programs; client and server, which work in coordination of
+This project contains two programs; client and server, which work in coordination of
 one another. The server program should be running before the client is executed.
 The client program requires an IP address as a commandline argument of the server.
 Multiple clients can connect to this thread
